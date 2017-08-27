@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MiTim</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="facebook_app_id">155932598313572</string>
+    <string name="fb_login_protocol_scheme">fb155932598313572</string>
+
+    <string name="animacion">animacion</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="google_place_api">AIzaSyA8_pSpLPl8Q7jBaK7WPNt42zwZz-a8Zgs</string>
+
+</resources>
